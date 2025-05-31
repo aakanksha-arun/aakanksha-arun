@@ -28,12 +28,9 @@
    PostgreSQL • GKE • Istio
    Jenkins • K8s Operator
 
-✨ Service mesh, observability
-   Custom operators
-
-🎥 Watch Demo Video
+✨ Helm, Terraform, Microservices
 ```
-[🔗 View Project](https://github.com/cyse7125-sp25-team03) | [📺 Demo](https://www.youtube.com/watch?v=VntctukuTwA)
+[🔗 View Project](https://github.com/cyse7125-sp25-team03) | [📺 Watch Demo](https://www.youtube.com/watch?v=VntctukuTwA)
 
 </td>
 <td width="33%" valign="top">
@@ -57,7 +54,7 @@
 <td width="33%" valign="top">
 
 ### 🏠 [Apartment Amigo](https://github.com/RupeshRokade16/apartment-amigo)
-**MERN Stack Platform**
+**MERN Stack App**
 ```
 🏡 Shared-household 
    management platform
