@@ -8,7 +8,7 @@
 
 - **DevOps Intern @ Somos, Inc**: Merged 100 PRs in 8 months. [Read more](https://www.linkedin.com/feed/update/urn:li:activity:7330795596066287616/)
 - **askTRACE AI**: Architected a distributed microservices system with Go, Kafka, and Kubernetes. [Watch Demo](https://www.youtube.com/watch?v=VntctukuTwA)
-- **AWS Certification Journey**: Currently preparing for AWS Solutions Architect certification
+- **CKA Certification Journey**: Currently preparing for Certified Kubernetes Administrator certification
 
 ## 🏗️ Featured Projects
 
