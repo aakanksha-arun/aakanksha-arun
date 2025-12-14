@@ -15,10 +15,28 @@
 <div align="center">
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Currently_Developing-blueviolet?style=flat&logo=rebuild&logoColor=white" alt="Developing Badge" />
+   
+### 🤖 [LifeSync AI](https://github.com/aakanksha-arun/life-sync-mcp)
+**MCP Server with Agentic AI**
+```
+🎯 MCP Server to unify
+   productivity apps into a
+   single interface
+
+💻 Python • Todoist • Notion
+   
+
+✨ Agentic AI, MCP
+```
+🔗 [View Project](https://github.com/aakanksha-arun/life-sync-mcp)
+<br><br>
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [askTRACE AI](https://github.com/cyse7125-sp25-team03)
-**Distributed System**
+**Distributed System for TRACE surveys**
 ```
 🎯 Scalable microservices 
    ecosystem with RAG 
@@ -30,13 +48,15 @@
 
 ✨ Helm, Terraform, Microservices
 ```
-[🔗 View Project](https://github.com/cyse7125-sp25-team03) | [📺 Watch Demo](https://www.youtube.com/watch?v=VntctukuTwA)
-
+🔗 [View Project](https://github.com/cyse7125-sp25-team03) | 📺 [Watch Demo](https://www.youtube.com/watch?v=VntctukuTwA)
+<br><br>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ☁️ [Cloud Native API](https://github.com/alijahh7)
-**GCP WebApp**
+### ☁️ [User Management API](https://github.com/alijahh7)
+**GCP Cloud Native WebApp**
 ```
 🌐 Production-ready Node.js 
    app with full automation
@@ -48,10 +68,10 @@
 ✨ Auto-scaling, load balancing
    IaC, automated deployments
 ```
-[🔗 View Project](https://github.com/alijahh7)
-
+🔗 [View Project](https://github.com/alijahh7)
+<br><br>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏠 [Apartment Amigo](https://github.com/RupeshRokade16/apartment-amigo)
 **MERN Stack App**
@@ -66,8 +86,8 @@
 📊 30% efficiency improvement
 ✨ Chore management, auth
 ```
-[🔗 View Project](https://github.com/RupeshRokade16/apartment-amigo)
-
+🔗 [View Project](https://github.com/RupeshRokade16/apartment-amigo)
+<br><br>
 </td>
 </tr>
 </table>
@@ -111,7 +131,7 @@ Cloud Engineer @ **LTIMindtree** (Jun 2021 - Jul 2023)
 
 ## 🎓 Education & Certifications
 
-- **MS Software Engineering Systems** - Northeastern University (Expected Dec 2025) | **GPA: 3.94/4.0**
+- **MS Software Engineering Systems** - Northeastern University | **GPA: 3.93/4.0**
 - **BE Information Technology** - University of Mumbai
 - **Microsoft Azure Fundamentals (AZ-900)** Certified
 
