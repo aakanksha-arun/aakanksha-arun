@@ -1,14 +1,14 @@
 # Hey there! 👋 I'm Aakanksha
 
-**Cloud Engineer & DevOps Enthusiast** | **MS Software Engineering @ Northeastern University**
+**Certified Kubernetes Administrator** | **Platform & DevOps** | **MS Software Engineering @ Northeastern University**
 
 > Passionate about building scalable, cloud-native systems and automating everything that can be automated 🚀
 
 ## 🔥 Recent Highlights
 
+- **[Certified Kubernetes Administrator](https://www.credly.com/badges/f4a30667-adca-439c-9675-740d2c8d19c1/public_url)**
 - **DevOps Intern @ Somos, Inc**: Merged 100 PRs in 8 months. [Read more](https://www.linkedin.com/feed/update/urn:li:activity:7330795596066287616/)
 - **askTRACE AI**: Architected a distributed microservices system with Go, Kafka, and Kubernetes. [Watch Demo](https://www.youtube.com/watch?v=VntctukuTwA)
-- **CKA Certification Journey**: Currently preparing for Certified Kubernetes Administrator certification
 
 ## 🏗️ Featured Projects
 
@@ -133,7 +133,8 @@ Cloud Engineer @ **LTIMindtree** (Jun 2021 - Jul 2023)
 
 - **MS Software Engineering Systems** - Northeastern University | **GPA: 3.93/4.0**
 - **BE Information Technology** - University of Mumbai
-- **Microsoft Azure Fundamentals (AZ-900)** Certified
+- **[Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/f7b6e6b9-5212-45f7-aeef-b09cbbfe8272/public_url)**
+- **[Certified Kubernetes Administrator](https://www.credly.com/badges/f4a30667-adca-439c-9675-740d2c8d19c1/public_url)**
 
 ## 🌟 Beyond the Code
 When I'm not architecting cloud systems, you'll find me:
